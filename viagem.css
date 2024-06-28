@@ -1,0 +1,35 @@
+body{
+    padding: 10px;
+    background-color: #AFEEEE;
+}
+#cabecalho{
+    padding: 15px;
+    background-color: #4682B4;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.flex-item{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.card{
+    padding: 10px;
+    width: 400;
+    height: 300;
+    background-color: #aeddff
+}
+a:hover{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
